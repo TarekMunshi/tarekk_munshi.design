@@ -8,7 +8,7 @@ const About = () => {
       <div className="absolute -top-72 opacity-20">
         <video loop autoPlay muted className="blur-sm">
           <source src={video} type="video/mp4" />
-          Your browser does not support the video tag
+          Your browser does not support the video ta
         </video>
       </div>
       <div className="max-w-[940px] mx-auto z-50 ">
